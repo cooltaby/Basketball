@@ -1,0 +1,29 @@
+﻿{
+	"version": 1577683559,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/slingend-sheet0.png",
+		"images/ball-sheet0.png",
+		"images/basketball-sheet0.png",
+		"images/spawnballleft-sheet0.png",
+		"images/goal-sheet0.png",
+		"images/invisiblesolid-sheet0.png",
+		"images/background2000-sheet0.png",
+		"images/directionarrow-sheet0.png",
+		"images/hudbest-sheet0.png",
+		"images/hudscore-sheet0.png",
+		"images/hudtime-sheet0.png",
+		"images/reload-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
